@@ -1,18 +1,18 @@
-# STFC Sustainability Team
+# SCD Energy Efficiency Team
 
-Welcome to the STFC Sustainability Team GitHub organisation. We are committed to driving sustainable practices across STFC through collaborative projects and knowledge sharing.
+Welcome to the Scientific Computing Department's Energy Efficiency Team GitHub organisation. We are committed to driving sustainable computing practices across Scientific Computing, STFC, and the wider academic and research community through collaborative projects and knowledge sharing.
 
 ## What We Do
 
 - **Support and initiate** sustainability-related projects within STFC
-- **Provide advice** to departments within STFC relating to sustainability
-- **Organise events** to facilitate knowledge sharing and networking
+- **Share knowledge** produce resources and best practice guidance relating to sustainability
+- **Organise events** to facilitate knowledge exchange and networking
 
 ## Get Involved
 
 | How | Description |
 |-----|-------------|
-| Join our meetings | Email [jessica.huntley@stfc.ac.uk](mailto:jessica.huntley@stfc.ac.uk) to join the Sustainability Team meetings |
+| Join our meetings | Email [jessica.huntley@stfc.ac.uk](mailto:jessica.huntley@stfc.ac.uk) to join the Energy Efficiency Team meetings |
 | Join discussions | Participate in our [GitHub Discussions](https://github.com/orgs/STFC-Sustainability-Team/discussions) |
 | Contribute | Get involved with one of our projects listed below |
 
